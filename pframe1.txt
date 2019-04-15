@@ -1,0 +1,20 @@
+<html>
+<head><title>payment modes</title></head>
+<body><form>
+      <fieldset>
+        <legend></legend>
+ <p>
+          <label>EXAM NAME</label>
+          <input type = "TEXT"
+                  id = "exam_name" size=30/>
+        </p>
+ <p>
+          <label>FEE AMOUNT</label>
+          <input type = "number"
+                  id = "fee_amount" size=30/>
+        </p>
+<p>MODES OF PAYMENT</p>
+<P><A HREF="card.html" target="pframe2"><button type="button" ">CREDIT/DEBIT CARD</button></P>
+<P><A HREF="dd.html" target="pframe2"><button type="button" ">DD</button></P>
+      </a></fieldset>
+    </form>

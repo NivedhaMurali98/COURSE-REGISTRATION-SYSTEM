@@ -1,0 +1,10 @@
+<html>
+<head><title>PAYMENT</title></head>
+<body>
+<br>
+<frameset cols="30%,70%">
+<frame src="Pframe1.html" name="pframe1">
+<frame name="pframe2">
+</frameset>
+</body>
+</html>

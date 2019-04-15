@@ -1,0 +1,14 @@
+<html>
+<head><title>ACCOUNT </title></head>
+<body>
+<center><h1>ONLINE REGISTRATION SYSTEM</h1>
+<br><br>
+<h1><a href=login.html>LIST OF EXAMS</a></H1>
+<A HREF="gre.html"><H3><UL><LI>GRE</LI></a>
+<a href="gmat.html><LI>GMAT</LI></a>
+<a href="toefl.html><LI>TOEFL</LI></a>
+<a href="cat.html><LI>CAT</LI></a>
+<a href="gate.html><LI>GATE</LI></a>
+</UL>
+</body>
+</html>

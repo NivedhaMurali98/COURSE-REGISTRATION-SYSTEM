@@ -1,0 +1,11 @@
+<html>
+<head><title>ONLINE REGISTRATION SYSTEM </title></head>
+<body>
+<center><h1>ONLINE REGISTRATION SYSTEM</h1>
+<br>
+<frameset cols="30%,70%">
+<frame src="frame1.html" name="terminator">
+<frame name="terminator2">
+</frameset>
+</body>
+</html>

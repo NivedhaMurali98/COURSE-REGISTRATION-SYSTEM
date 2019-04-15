@@ -1,0 +1,30 @@
+<html>
+<head><title>payment modes</title></head>
+<body><CENTER><BR><BR><bR><BR><BR><form>
+      <fieldset>
+        <legend>CARD</legend>
+ <p>
+          <label>CARD NUMBER</label>
+          <input type = "NUMBER"
+                  id = "c_no" size=30/>
+        </p>
+ <p>
+          <label>NAME</label>
+          <input type = "TEXT"
+                  id = "c_name" size=30/>
+        </p>
+<p>
+          <label>VALIDITY</label>
+          <input type = "date"
+                  id = "validity"size=30/>
+        </p>
+<p>
+          <label>CVV</label>
+          <input type = "NUMBER"
+                  id = "cvv" size=30/>
+        </p>
+
+<B> MODES OF PAYMENT </B> <BR> <BR>
+<A HREF="card.html" target="_top"><button type="button" ">PAY</button>
+      </a></fieldset>
+    </form>

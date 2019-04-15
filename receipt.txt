@@ -1,0 +1,32 @@
+<html>
+<head><title>payment modes</title></head>
+<body><CENTER><BR><BR><bR><BR><BR><form>
+      <fieldset>
+        <legend>RECEIPT</legend>
+ <p>
+          <label>AADHAR_ID</label>
+          <input type = "NUMBER"
+                  id = "a_id" size=30/>
+        </p>
+ <p>
+          <label>EXAM NAME</label>
+          <input type = "TEXT"
+                  id = "exam_name" size=30/>
+        </p>
+
+ <P>         <label>EXAM CODE</label>
+          <input type = "NUMBER"
+                  id = "e_code" size=30/>
+<p>
+          <label>DATE OF PAYMENT</label>
+          <input type = "date"
+                  id = "dop"size=30/>
+        </p>
+
+          <label>AMOUNT PAID</label>
+          <input type = "NUMBER"
+                  id = "fee" size=30/>
+<A HREF="login.html" target="_top"><button type="button" ">LOGOUT</button>
+<A HREF="account.html" target="_top"><button type="button" ">REGISTER FOR MORE EXAMS</button>
+      </a></fieldset>
+    </form>

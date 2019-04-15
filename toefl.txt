@@ -1,0 +1,35 @@
+<html>
+<head>
+<title>TOEFL</title>
+</head>
+<body>
+<center>
+<h1>TOEFL</h1>
+</center>
+<p>Test of English as a Foreign Language is a standardized test to measure the English language ability of non-native speakers wishing to enroll in English-speaking universities. The test is accepted by many English-speaking academic and professional institutions. TOEFL is one of the two major English-language tests in the world, the other being the IELTS.
+</p><p>
+TOEFL is a trademark of the Educational Testing Service (ETS), a private non-profit organization, which designs and administers the tests. ETS issues official score reports, sent independently to institutions, for two years following the test.
+</p>
+<form>
+     <center> <fieldset>
+        <legend>SELECT DATE AND VENUE</legend>
+       <p>
+          <label>DATE</label>
+          <select name="date_of_exam">
+<option selected="selected">20/04/2017</option>
+<option>20/05/2017</option>
+<option>20/06/2017</option>
+</select>
+        </p><p>
+          <label>VENUE</label>
+          <select name="venue">
+<option selected="selected">Chennai</option>
+<option>Kolkata</option>
+<option>Bangalore</option>
+</select>
+        </p>
+      <A HREF="examreg.html"><button type="button" ">REGISTER</button>
+      </a></fieldset>
+    </form>
+</body>
+</html>
